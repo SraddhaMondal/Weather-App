@@ -1,3 +1,6 @@
+![Screenshot (631)](https://github.com/SraddhaMondal/weather-app/assets/83489765/ba64eeaf-c90d-4c90-8e0c-dceac174589a)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
